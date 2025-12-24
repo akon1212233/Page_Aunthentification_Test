@@ -3,14 +3,14 @@ Un ejemplo de pagina de autenticación, Estilo modificable y Mensajería publica
 
 ##Ver a futuro:
 
-** Mensajeria
+** Mensajeria **
 -. Mensajes en tiempo real (WebSockets).
 -. Editar / eliminar mensajes.
 -. Reacciones (likes, emojis).
 -. Respuestas en hilos.
 -. Chats privados.
 
-** Estilos
+** Estilos **
 -. Estilos predifinidos y escogibles (Modo claro / oscuro / automático).
 -. Editor visual de tema.
 -. Temas creados por usuarios.
@@ -18,7 +18,7 @@ Un ejemplo de pagina de autenticación, Estilo modificable y Mensajería publica
 -. Soporte para plugins visuales.
 -. Pagina modificable (tipo HTML).
 
-** Autenticación
+** Autenticación **
 -. Verificación por correo (activar cuenta).
 -. Recuperación de contraseña.
 -. 2FA (código por correo / app).
@@ -28,7 +28,7 @@ Un ejemplo de pagina de autenticación, Estilo modificable y Mensajería publica
 -. Historial de inicios de sesión (IP / país aproximado).
 
 
-** IDEAS
+** IDEAS **
 #Sistema de usuarios
 
 .- Perfiles públicos.
