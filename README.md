@@ -1,4 +1,4 @@
-# Page_Aunthentification_Test
+# Page_Chat_Network_Kronos
 Un ejemplo de pagina de autenticación, Estilo modificable y Mensajería publica disponible.
 
 ## Ver a futuro:
