@@ -1,0 +1,46 @@
+/* tweakcn — Military | military */
+:root {
+  --background: #cccccc;
+  --foreground: #1f1f1f;
+  --card: #b0b0b0;
+  --card-foreground: #1f1f1f;
+  --popover: #b0b0b0;
+  --popover-foreground: #1f1f1f;
+  --primary: #b71c1c;
+  --primary-foreground: #ffffff;
+  --secondary: #556b2f;
+  --secondary-foreground: #ffffff;
+  --muted: #b8b8b8;
+  --muted-foreground: #4a4a4a;
+  --accent: #4682b4;
+  --accent-foreground: #ffffff;
+  --destructive: #ff6f00;
+  --destructive-foreground: #000000;
+  --border: #505050;
+  --input: #505050;
+  --ring: #b71c1c;
+  --radius: 0px;
+}
+
+.dark {
+  --background: #1a1a1a;
+  --foreground: #e0e0e0;
+  --card: #2a2a2a;
+  --card-foreground: #e0e0e0;
+  --popover: #2a2a2a;
+  --popover-foreground: #e0e0e0;
+  --primary: #e53935;
+  --primary-foreground: #ffffff;
+  --secondary: #689f38;
+  --secondary-foreground: #000000;
+  --muted: #252525;
+  --muted-foreground: #a0a0a0;
+  --accent: #64b5f6;
+  --accent-foreground: #000000;
+  --destructive: #ffa000;
+  --destructive-foreground: #000000;
+  --border: #4a4a4a;
+  --input: #4a4a4a;
+  --ring: #e53935;
+  --radius: 0px;
+}
